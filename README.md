@@ -82,6 +82,14 @@ responsibly:
   this tool to bypass access controls, evade bans, or for any unlawful purpose.
 - You are solely responsible for how you use the proxies you collect.
 
+## Roadmap
+
+Honest next steps:
+
+- JSON output and one file per protocol (today: a single plain-text list).
+- A source-health report — which sources actually returned working proxies.
+- Optional latency / anonymity checks during validation.
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
